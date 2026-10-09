@@ -7,6 +7,6 @@ git push origin main
 
 
 git add -A
-git commit -m "update day n "
+git commit -m "update day 1 "
 git pull --rebase origin main
 git push origin main
